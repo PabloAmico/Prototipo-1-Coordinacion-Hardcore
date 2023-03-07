@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pink-Slide",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "db8b564e-9ff8-4dd5-8c05-faceacdfe450"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a7cb757b-3cff-424a-a3ee-e2d1ac4f9aab"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c235a9c9-c36b-4bd5-971c-f51320481841"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "55c0ced8-bfef-4381-91f3-649dbd37c45a"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f7bea008-fbb9-4ace-83b9-d60ed7d8885f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "632aac28-d04a-400b-a76e-8dc7215906cf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

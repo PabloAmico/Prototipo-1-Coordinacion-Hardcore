@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dark-jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 4,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "06929698-f7b5-4e24-b98d-5b4666735b19"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "c76df177-015c-4179-8494-e59881ba7de5"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ae07daeb-ab30-4781-be85-f39d6e00c70e"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e02e121a-1ac2-4cd6-9b2e-87d8b1f6432a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
